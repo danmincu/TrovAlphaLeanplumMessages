@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">sample</string>
+    <string name="clipboard_button">Copy device id to the clipboard</string>
+</resources>
